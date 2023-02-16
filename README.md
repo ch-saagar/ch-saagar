@@ -1,8 +1,6 @@
 ![MasterHead](https://github.com/ch-saagar/ch-saagar/blob/main/Simple%20black%20and%20white%20text%20gif.mp4)
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
 <h3 align="center">A passionate Data Science cognoscente</h3>s
-img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-saagar&label=Profile%20views&color=0e75b6&style=flat" alt="ch-saagar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-saagar" alt="ch-saagar" /></a> </p>
