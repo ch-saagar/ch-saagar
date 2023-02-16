@@ -1,4 +1,4 @@
-![MasterHead](Simple black and white text gif.mp4)
+![MasterHead](https://github.com/ch-saagar/ch-saagar/blob/main/Simple%20black%20and%20white%20text%20gif.mp4)
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
 <h3 align="center">A passionate Data Science cognoscente</h3>s
 img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
