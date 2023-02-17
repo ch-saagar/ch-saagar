@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ch-saagar/ch-saagar/blob/main/Simple%20black%20and%20white%20text%20gif.mp4)
+![MasterHead](https://github.com/ch-saagar/ch-saagar/blob/main/Simple%20black%20and%20white%20text%20gif.gif)
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
 <h3 align="center">A passionate Data Science cognoscente</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-saagar&label=Profile%20views&color=0e75b6&style=flat" alt="ch-saagar" /> </p>
